@@ -1,14 +1,12 @@
 /**
- * @name Vencord's Theme (v1.0.9)
- * @author Synqat
- * @version 1.0.9
- * @description A Vencord-themed Discord theme!
- * @source https://github.com/Synqat/vencord-theme
- * @website https://vencord.dev
- * @invite vencord
+ * @name Vencord's Theme
+ * @author heartmile
+ * @version 1.0.0
+ * @description synqat's theme fork!
+ * @source https://github.com/heartmile/vencord-theme
 */
 
-@import "https://raw.githubusercontent.com/Synqat/vencord-theme/main/versions/latest.css";
+@import "https://raw.githubusercontent.com/heartmile/vencord-theme/main/versions/latest.css";
 
 /* it is what it is */
 :root {
