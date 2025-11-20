@@ -11,4 +11,4 @@ https://raw.githubusercontent.com/heartmile/vencord-theme/main/test.css
 4. `Plugin` -> `ClientTheme` -> hex `32302f` needs to be fixed without using plugins but i'm lazy rn
 
 ## There's a bug!
-Report any CSS bugs in the [Issues tab](https://github.com/Synqat/vencord-theme/issues).
+idk wat to do about it yet but dm me @helioric
